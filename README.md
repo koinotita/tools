@@ -16,3 +16,5 @@ $ git config [--global] user.email "[email address]"
 # 提交
 
 ```
+###
+可以导入其他子包，但是internal不能，使用internal封闭不对外暴露的代码
